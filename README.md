@@ -1,10 +1,3 @@
-## 👋 Hey there, I'm Utsav 
-🚀 Frontend Dev
-
-### 🎯 About Me  
-- 💻 Passionate about creating **sleek & responsive UIs**  
-- 🎨 Love working with animations & micro-interactions  
-- 📍 Currently exploring **React Native & Expo**  
 
 ### 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-tiwari-18b72a2a1/)  
@@ -22,7 +15,3 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utsavtiwari00&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavtiwari00&layout=compact&theme=dark)  
